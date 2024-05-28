@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "your_openai_api_key",
+  "output_directory": "Output_Folder_Name",
+  "keywords_file": "keywords.csv",
+  "proxy_file": "proxylist.txt"
+}
